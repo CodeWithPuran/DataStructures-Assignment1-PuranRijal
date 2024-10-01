@@ -60,3 +60,11 @@ The `ClueTree` class represents a binary tree structure to store clues. The meth
 ## Instructions to Run the Code
 
 1. Clone the repository to your local machine:
+2. Navigate to the `src` directory where the packages are located.
+3. Compile each Java file. For example, if you are using the command line, you can compile with:
+4. Run the main class of your choice. If you have created a main method to test your classes, you can run it like this:
+5. Follow any prompts or instructions in the console to interact with your program.
+
+## Conclusion
+
+This assignment allowed me to deepen my understanding of data structures and their practical applications. Each challenge reinforced important concepts and helped me improve my coding skills. I look forward to applying what I've learned in future projects.
