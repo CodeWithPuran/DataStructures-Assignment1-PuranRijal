@@ -62,7 +62,9 @@ The `ClueTree` class represents a binary tree structure to store clues. The meth
 1. Clone the repository to your local machine:
 2. Navigate to the `src` directory where the packages are located.
 3. Compile each Java file. For example, if you are using the command line, you can compile with:
+   javac artifactvault/ArtifactVault.java javac labyrinthpath/LabyrinthPath.java javac scrollstack/ScrollStack.java javac cluetree/ClueTree.java javac explorerqueue/ExplorerQueue.java
 4. Run the main class of your choice. If you have created a main method to test your classes, you can run it like this:
+   java artifactvault.ArtifactVault
 5. Follow any prompts or instructions in the console to interact with your program.
 
 ## Conclusion
